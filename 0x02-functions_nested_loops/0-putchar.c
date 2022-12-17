@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
- * main - print _putchar
- * is written by muluken
- * Return: 0
+ * main - print _putchar and a new line
+ * Return: Always 0
  */
 
 int main(void)
@@ -16,5 +16,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return (0);
 }
