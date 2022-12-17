@@ -1,9 +1,8 @@
 #include "main.h"
-
 /**
  * main - print _putchar
  * is written by muluken
- * Returned: 0
+ * Return: 0
  */
 
 int main(void)
